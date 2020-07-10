@@ -1,0 +1,86 @@
+body{
+    /* background-image: ; */
+    background-image:  url(images/508976.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+   background-position: center;
+   background-attachment: fixed;
+   font-family: 'Fondamento', cursive;
+}
+h1{
+    font-family: 'Cutive', serif;
+    color:black ;
+}
+.l1{
+   
+  border-radius: 10px;
+    text-align: center;
+    border: solid 1px transparent;
+  
+}
+#navbar{
+   
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 400;
+   
+    
+}
+.nav-link{
+    border: 0.2px solid lightgrey transparent;
+margin-right: 10px;
+   transition: 0.4s ease-in;
+}
+
+
+#main{
+    
+   color:black;
+    text-align: center;
+    
+ 
+}
+.m1{
+    padding: 50px 10px;
+}
+.btn-n{
+   
+    margin-top: 10px;
+    color:white;
+    margin-bottom: 10px;
+    width: 17%;
+    text-align: center;
+    
+}
+.btn-n:hover{
+  
+    border: 1px solid white;
+    background-color: lavender;
+    
+}
+#about{
+  
+    text-align: center;
+   
+    color:white;
+}
+#love{
+    color: white;
+    margin-top: 2px;
+}
+#answer{
+    color: white;
+}
+#footer{
+    background-color:lightslategray;
+    text-align: center;
+    color:lightblue;
+    padding: 5px;
+    background: transparent;
+
+}
+.fab{
+width: 20px;
+}
+
+
